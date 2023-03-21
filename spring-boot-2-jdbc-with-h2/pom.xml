@@ -19,7 +19,7 @@
 	<description>Spring Boot 2, JDBC and H2 - Example Project</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 
 	<dependencies>
